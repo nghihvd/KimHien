@@ -1,17 +1,23 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using KimHien;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
 builder.Services.AddRazorPages();
-/**builder.Services.AddDbContext<ApplicationDbContext>(options =>
+// Add services to the container.
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
 options.UseMySql(
     builder.Configuration.GetConnectionString("DefaultConnection"),
     new MySqlServerVersion(new Version(8, 0, 32)) // Thay bằng version của MySQL bạn dùng
 ));
-**/
 
+// Thêm dịch vụ xác thực và phân quyền
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminPolicy", policy =>
+        policy.RequireRole("Admin"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
