@@ -17,6 +17,7 @@
 
         public string gender { get; set; }
 
+        public string status { get; set; }
 
     }
 }
