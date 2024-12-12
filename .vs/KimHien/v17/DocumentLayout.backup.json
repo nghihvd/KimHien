@@ -15,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "bootstrap-reboot.css",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "bootstrap-grid.css",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "bootstrap.css",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "KimHien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -146,9 +146,9 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KimHien\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAACKAAAAAAAAAA==",
+              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "KimHien\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T11:00:25.227Z",
               "EditorCaption": ""
@@ -199,7 +199,7 @@
               "RelativeDocumentMoniker": "KimHien\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\SE\\KimHien\\KimHien\\wwwroot\\css\\site.css",
               "RelativeToolTip": "KimHien\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-11T11:08:37.152Z",
               "EditorCaption": ""
@@ -245,13 +245,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\_ViewStart.cshtml",
               "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "KimHien\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T11:00:03.343Z",
               "EditorCaption": ""
@@ -271,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Home\\Privacy.cshtml",
@@ -284,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Home\\Index.cshtml",

@@ -40,3 +40,7 @@ header{
     margin: 0;
     
 }
+footer div{
+    color: gold;
+    font-weight: bold;
+}
