@@ -1,29 +1,37 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
+<head >
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - KimHien</title>
+    <title>@ViewData["Title"] - Tiệm Vàng Kim Hiền</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/KimHien.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">KimHien</a>
+    <header >
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light  border-bottom box-shadow mb-3" style="background-color: crimson">
+            <div class="container-fluid row">
+                <img src="~/image/diamond.png" alt="Logo" class="header-logo col-md-3"/>
+                <a class="navbar-brand col-md-3" asp-area="" asp-controller="Home" asp-action="Index" style="color:gold;text-align: center">
+                    <strong>Doanh Nghiệp Tư Nhân Vàng - Bạc - Đá Quý <br />
+                        Kim Hiền </strong>
+         
+                    </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between header-container col-md-6" >
+                    <ul class=" head-item navbar-nav flex-grow-1 " style="text-align: end ; display: ruby">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index" style="color:gold">Trang chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy" style="color:gold">Danh mục</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy" style="color:gold">Liên lạc</a>
                         </li>
                     </ul>
                 </div>
@@ -38,7 +46,14 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - KimHien - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            Tiệm vàng Kim Hiền<br/>
+            Chuyên: <br/>
+            <a style="text-align:center">
+                MUA BÁN - TRAO ĐỔI VÀNG - BẠC - ĐÁ QUÝ<br />
+                NHẬN GIA CÔNG NHỮ TRANG THEO CATALOGE
+            </a> 
+            
+            
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
