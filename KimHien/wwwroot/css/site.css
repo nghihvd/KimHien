@@ -47,3 +47,9 @@ footer div {
     margin-left:auto;
     margin-right: auto;
 }
+table{
+    color: gold;
+    background-color: #8B0000;
+    text-align:center;
+    border-spacing: 2px;
+}
