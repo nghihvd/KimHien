@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\SE\\KimHien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|solutionrelative:kimhien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F66BB0A6-E038-4CAF-82F1-D19BF285BA46}|KimHien\\KimHien.csproj|d:\\se\\kimhien\\kimhien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "KimHien\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KimHien\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T10:56:51.915Z",
               "EditorCaption": ""
@@ -168,26 +168,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "KimHien\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\SE\\KimHien\\KimHien\\wwwroot\\css\\site.css",
               "RelativeToolTip": "KimHien\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwDEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-11T11:08:37.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KimHien\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KimHien\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA==",
+              "ToolTip": "D:\\SE\\KimHien\\KimHien\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "KimHien\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T11:00:25.227Z",
               "EditorCaption": ""
