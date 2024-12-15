@@ -47,6 +47,17 @@ footer div {
     margin-left:auto;
     margin-right: auto;
 }
+.logo {
+    max-width: 100%; /* Đảm bảo logo không vượt quá kích thước khung cha */
+    height: auto; /* Giữ nguyên tỷ lệ khung hình */
+    display: block; /* Tránh xuất hiện khoảng trắng thừa */
+    margin: 0 auto; /* Căn giữa logo */
+}
+
+.header-logo-container {
+    max-width: 135px; /* Kích thước tối đa cho logo, bạn có thể thay đổi */
+    width: 100%; /* Logo sẽ thu nhỏ theo khung cha */
+}
 table{
     color: gold;
     background-color: #8B0000;
