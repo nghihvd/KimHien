@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pratice\\KimHien\\KimHien\\KimHien.csproj": {}
+    "D:\\SE\\KimHien\\KimHien\\KimHien.csproj": {}
   },
   "projects": {
-    "D:\\Pratice\\KimHien\\KimHien\\KimHien.csproj": {
+    "D:\\SE\\KimHien\\KimHien\\KimHien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pratice\\KimHien\\KimHien\\KimHien.csproj",
+        "projectUniqueName": "D:\\SE\\KimHien\\KimHien\\KimHien.csproj",
         "projectName": "KimHien",
-        "projectPath": "D:\\Pratice\\KimHien\\KimHien\\KimHien.csproj",
-        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
-        "outputPath": "D:\\Pratice\\KimHien\\KimHien\\obj\\",
+        "projectPath": "D:\\SE\\KimHien\\KimHien\\KimHien.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\SE\\KimHien\\KimHien\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +50,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
