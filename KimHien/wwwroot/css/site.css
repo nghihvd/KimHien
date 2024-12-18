@@ -17,15 +17,6 @@ body {
   margin-bottom: 60px;
 }
 
-header-logo{
-    width: 100px;
-    height: auto;
-}
-header-container {
-    margin-left: auto;
-    display: flex;
-    justify-content: flex-end;
-}
 ul li  {
     font-weight: bold;
 }
@@ -36,7 +27,7 @@ ul head-item {
 }
 header{
     width: 100%;
-    max-width: 1440px;
+    max-width: 1440%;
     margin: 0;
     
 }
