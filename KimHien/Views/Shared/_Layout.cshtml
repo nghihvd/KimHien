@@ -19,7 +19,7 @@
                 <div class="col-md-2 header-logo-container">
                     <img src="~/image/download-removebg-preview.png" alt="Logo" class="logo" />
                 </div>
-                <a class="navbar-brand col-md-4" asp-area="" asp-controller="Home" asp-action="Index" style="color:gold;text-align: center">
+                <a class="navbar-brand col-md-4" asp-area="" asp-controller="Home" asp-action="Index" style="color:gold;text-align: center;font-size: x-large;">
                     <strong>Doanh Nghiệp Tư Nhân Vàng - Bạc - Đá Quý <br />
                         Kim Hiền </strong>
          
@@ -29,7 +29,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between header-container col-md-6" >
-                    <ul class=" head-item navbar-nav flex-grow-1 " style="text-align: center ; display: ruby">
+                    <ul class=" head-item navbar-nav flex-grow-1 " style="text-align: center ; display: ruby;font-size: x-large;">
                         <li class="nav-item">
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index" style="color:gold">Trang chủ</a>
                         </li>
@@ -40,6 +40,25 @@
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy" style="color:gold">Liên lạc</a>
                         </li>
                     </ul>
+                    <div class="icon-container d-flex align-items-center justify-content-between" style="gap: 40px;">
+                        
+                        <a href="#" class="icon-item d-flex flex-column align-items-center" style="text-align: center;">
+                            <i class="fas fa-envelope" style="font-size: 30px; color:gold;"></i>
+                        </a>
+
+                       
+                        <a href="#" class="icon-item d-flex flex-column align-items-center" style="text-align: center;">
+                            <i class="fas fa-shopping-cart" style="font-size: 30px; color:gold;"></i>
+                        </a>
+
+
+                        <div class="icon-item d-flex flex-column align-items-center" style="text-align: center;">
+                            <a asp-area="" asp-controller="Home" asp-action="Login" style="text-decoration: none; cursor: pointer;">
+                                <i class="fas fa-user-circle" style="font-size: 30px; color:gold; border: 2px solid gold; border-radius: 50%; padding: 5px;"></i>
+                            </a>
+                            <span style="font-size: 14px; color: gold; margin-top: 5px; font-weight: bold;">Login</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </nav>
