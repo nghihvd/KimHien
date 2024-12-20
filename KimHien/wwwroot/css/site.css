@@ -1,13 +1,15 @@
 ﻿html {
   font-size: 14px;
+  scroll-behavior: smooth;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 10px;
+    scroll-behavior: smooth;
+    padding: 0px;
   }
 }
-
 html {
   position: relative;
   min-height: 100%;
@@ -15,6 +17,25 @@ html {
 
 body {
   margin-bottom: 60px;
+  height:auto;
+  overflow-y:auto;
+  overflow-x: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.sett {
+    margin-bottom: 60px;
+    height: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+main{
+    min-height: 100vh;
+    padding: 20px;
 }
 
 ul li  {
@@ -29,8 +50,8 @@ header{
     width: 100%;
     max-width: 1440%;
     margin: 0;
-    
 }
+
 footer div {
     color: gold;
     font-weight: bold;
@@ -55,4 +76,8 @@ table{
     text-align:center;
     border-spacing: 2px;
 }
+.index {
+    background-color: #8B0000;
+    color: white;
 
+}
